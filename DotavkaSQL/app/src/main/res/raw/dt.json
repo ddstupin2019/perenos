@@ -1,0 +1,62 @@
+{
+  "Ekb": {
+    "numberOfCompletedOrdersTheDay": "50",
+    "profitOfCompletedOrdersTheDay": "5000000",
+    "numberLongdistanceOrdersTheDay": "5",
+    "profitLongdistanceOrdersTheDay": "40000",
+    "numberOfUnfulfilledOrdersTheDay": "5",
+    "profitOfUnfulfilledOrdersTheDay": "20000",
+    "numberOfCompletedOrdersTheMonth": ["50","60","70"],
+    "profitOfCompletedOrdersTheMonth": ["5000000","6000000","7000000"],
+    "numberLongdistanceOrdersTheMonth": ["5","6","7"],
+    "profitLongdistanceOrdersTheMonth": ["40000","50000","60000"],
+    "numberOfUnfulfilledOrdersTheMonth": ["5","6","7"],
+    "profitOfUnfulfilledOrdersTheMonth": ["40000","50000","60000"],
+    "Data":["22022","12022","122021"]
+  },
+  "Chelib": {
+    "numberOfCompletedOrdersTheDay": "25",
+    "profitOfCompletedOrdersTheDay": "2500000",
+    "numberLongdistanceOrdersTheDay": "3",
+    "profitLongdistanceOrdersTheDay": "20000",
+    "numberOfUnfulfilledOrdersTheDay": "3",
+    "profitOfUnfulfilledOrdersTheDay": "10000",
+    "numberOfCompletedOrdersTheMonth": ["50","60","70"],
+    "profitOfCompletedOrdersTheMonth": ["5000000","6000000","7000000"],
+    "numberLongdistanceOrdersTheMonth": ["5","6","7"],
+    "profitLongdistanceOrdersTheMonth": ["40000","50000","60000"],
+    "numberOfUnfulfilledOrdersTheMonth": ["5","6","7"],
+    "profitOfUnfulfilledOrdersTheMonth": ["40000","50000","60000"],
+    "Data":["22022","12022","122021"]
+  },
+  "Turgan": {
+    "numberOfCompletedOrdersTheDay": "100",
+    "profitOfCompletedOrdersTheDay": "10000000",
+    "numberLongdistanceOrdersTheDay": "10",
+    "profitLongdistanceOrdersTheDay": "80000",
+    "numberOfUnfulfilledOrdersTheDay": "10",
+    "profitOfUnfulfilledOrdersTheDay": "40000",
+    "numberOfCompletedOrdersTheMonth": ["50","60","70"],
+    "profitOfCompletedOrdersTheMonth": ["5000000","6000000","7000000"],
+    "numberLongdistanceOrdersTheMonth": ["5","6","7"],
+    "profitLongdistanceOrdersTheMonth": ["40000","50000","60000"],
+    "numberOfUnfulfilledOrdersTheMonth": ["5","6","7"],
+    "profitOfUnfulfilledOrdersTheMonth": ["40000","50000","60000"],
+    "Data":["22022","12022","122021"]
+  },
+  "Tumen": {
+    "numberOfCompletedOrdersTheDay": "25",
+    "profitOfCompletedOrdersTheDay": "2500000",
+    "numberLongdistanceOrdersTheDay": "3",
+    "profitLongdistanceOrdersTheDay": "20000",
+    "numberOfUnfulfilledOrdersTheDay": "3",
+    "profitOfUnfulfilledOrdersTheDay": "10000",
+    "numberOfCompletedOrdersTheMonth": ["50","60","70"],
+    "profitOfCompletedOrdersTheMonth": ["5000000","6000000","7000000"],
+    "numberLongdistanceOrdersTheMonth": ["5","6","7"],
+    "profitLongdistanceOrdersTheMonth": ["40000","50000","60000"],
+    "numberOfUnfulfilledOrdersTheMonth": ["5","6","7"],
+    "profitOfUnfulfilledOrdersTheMonth": ["40000","50000","60000"],
+    "Data":["22022","12022","122021"]
+  }
+}
